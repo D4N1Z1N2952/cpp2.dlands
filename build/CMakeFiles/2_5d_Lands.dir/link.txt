@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/2_5d_Lands.dir/main.cpp.o CMakeFiles/2_5d_Lands.dir/Noise.cpp.o CMakeFiles/2_5d_Lands.dir/World.cpp.o CMakeFiles/2_5d_Lands.dir/Renderer.cpp.o CMakeFiles/2_5d_Lands.dir/Player.cpp.o -o 2_5d_Lands  /usr/lib/x86_64-linux-gnu/libSDL2.so
