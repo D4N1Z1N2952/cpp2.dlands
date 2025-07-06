@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD 20)
 find_package(SDL2 REQUIRED)
 
 # Add executable
-add_executable(2_5d_Lands main.cpp)
+add_executable(2_5d_Lands main.cpp Noise.cpp World.cpp Renderer.cpp Player.cpp)
 
 # Add SDL2 include directories
 target_include_directories(2_5d_Lands PRIVATE ${SDL2_INCLUDE_DIRS})
